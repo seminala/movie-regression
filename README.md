@@ -14,6 +14,13 @@ This Streamlit web app predicts a movie's revenue based on its production budget
 - Plotly
 - Joblib
 
+## 📊 Dataset Source
+The dataset used in this project is from **The Movie Database (TMDB)** via **Kaggle**:
+
+🔗 [TMDB Movie Metadata Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+
+It contains information about movie titles, budgets, revenues, genres, popularity, and ratings — useful for analyzing how different features affect financial performance.
+
 ## ▶️ Run Locally
 ```bash
 pip install -r requirements.txt
