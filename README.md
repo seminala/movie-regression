@@ -25,8 +25,9 @@ It contains information about movie titles, budgets, revenues, genres, popularit
 ```bash
 pip install -r requirements.txt
 streamlit run movie_revenue_app.py
-
-## 👩‍💻 Developer Info
+```
+```
 Developed by Nabila Putri using Streamlit and Scikit-Learn
 for Aplikasi Web with Bu Akhsin 🌸
 © 2025 Universitas Negeri Yogyakarta
+```
